@@ -25,6 +25,8 @@ public class User {
     private int age;
     private String email;
 
+    private Integer num;
+
 
     public Integer getId() {
         return id;
